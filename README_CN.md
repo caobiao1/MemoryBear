@@ -1,6 +1,8 @@
 <img width="2346" height="1310" alt="image" src="https://github.com/user-attachments/assets/bc73a64d-cd1e-4d22-be3e-04ce40423a20" />
 
+曹彪
 # MemoryBear 让AI拥有如同人类一样的记忆
+
 
 中文 | [English](./README.md)
 
